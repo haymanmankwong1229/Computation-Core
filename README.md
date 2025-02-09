@@ -6,5 +6,4 @@
 ## 使用說明
 1. 確保已安裝 Node.js 和 npm。
 2. 執行 `npm install` 以安裝依賴項。
-3. 執行 `npm run build` 編譯 TypeScript 檔案。
-4. 使用 `npm test` 進行單元測試。
+3. 使用 `npm test` 進行單元測試。
